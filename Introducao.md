@@ -119,3 +119,27 @@ Assim, agora só precisamos executar a aplicação, clicando no botão de play n
 Assim, a aplicação irá abrir no Edge, ou em qualquer device que você escolher.
 
 ![](assets/running-on-edge.png)
+
+## Configurando o emulador Android
+
+Primeiro, precisamos instalar o Android Studio. Podemos fazer a instalação do Android Studio utilizando o [JetBrains Toolbox App](https://www.jetbrains.com/toolbox-app/).
+
+![](assets/toolbox.png)
+
+Ao abrir o instalador, clicamos em `install`.
+
+![](assets/toolbox-install.png)
+
+Logo após, o app será instalado no computador e irá abrir automaticamente. Aperte em continuar e começar a usar.
+
+![](assets/toolbox-setup.png)
+
+![](assets/toolbox-setup-1.png)
+
+Procure por Android Studio na lista disponível e aperte em `instalar`.
+
+![](assets/android-studio.png)
+
+Aceite os termos de serviço e depois clique em `Instalar Android Studio`. Após, aguarde a instalação terminar.
+
+![](assets/android-studio-install.png).
